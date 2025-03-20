@@ -1,8 +1,9 @@
 svg {
-  scale: .5;
+  scale: 2;
 }
 img {
+  scale: .6;
   position: absolute;
-  top: 400px;  
-  left: 790px;  
+  top: 340px;  
+  left: 705px;  
 }
