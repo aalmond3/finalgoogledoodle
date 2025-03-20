@@ -1,25 +1,8 @@
-/* My Awesome Styles */
-
-/* Diagnostic Styling 
-  * Change Background Color
-  * Outline Elements
-*/
-
-* {
-    outline: 1px dotted black;
+svg {
+  scale: .5;
 }
-
-/* Doodle Stage */
-#stage {
-  background: #ccc;
-  height: 300px;
-  width: 600px;
-}
-
-#heart1 {
-  fill: red;
-}
-
-#heart2 {
-  fill: green;
+img {
+  position: absolute;
+  top: 400px;  
+  left: 790px;  
 }
